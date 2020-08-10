@@ -228,6 +228,7 @@
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 - [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
+- [Three.js](https://github.com/fritx/awesome-threejs) - An easy to use, lightweight, 3D library with a default WebGL renderer.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
 - [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
